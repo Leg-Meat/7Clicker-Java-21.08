@@ -30,8 +30,8 @@ public class AutoClicker {
 
 	private static int delay = -1;
 	public static long lastTime = 0;
-	public static int minCPS = 8;
-	public static int maxCPS = 12;
+	public static int minCPS = 98;
+	public static int maxCPS = 99;
 	public static int button = 1;
 
 	public static String[] toggleKey = { "", "" };

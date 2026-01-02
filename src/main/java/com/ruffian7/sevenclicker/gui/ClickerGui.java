@@ -58,8 +58,8 @@ public class ClickerGui {
 			new ImageIcon(AutoClicker.class.getClassLoader().getResource("assets/power_button.png")));
 	public JLabel toggleKeyText = new JLabel("Toggle Button");
 
-	public JTextField minCPSField = new JTextField("8", 2);
-	public JTextField maxCPSField = new JTextField("12", 2);
+	public JTextField minCPSField = new JTextField("98", 2);
+	public JTextField maxCPSField = new JTextField("99", 2);
 	public JTextField toggleKeyField = new JTextField("Mouse 3");
 
 	public JCheckBox overlayBox = new JCheckBox("Overlay", true);
